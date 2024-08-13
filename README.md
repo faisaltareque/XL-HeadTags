@@ -1,6 +1,6 @@
 # XL-HeadTags
 
-This is the official repository contains the code, data, and models of the paper titled [**"XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags"**](https://arxiv.org/abs/2406.03776), accepted for publication in Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL’24).
+This is the official repository contains the code, data, and models of the paper titled [**"XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags"**](https://aclanthology.org/2024.findings-acl.771/), accepted for publication in Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL’24).
 
 ## Table of Contents
 
