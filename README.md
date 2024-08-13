@@ -12,6 +12,7 @@ This is the official repository contains the code, data, and models of the paper
   - [Multilingual Tools](#multilingual-tools)
   - [Implementation](#implementation)
   - [License](#license)
+  - [Citation](#citation)
   - [Contributors](#contributors)
   - [Acknowledgements](#acknowledgements)
 
@@ -38,6 +39,30 @@ Multilingual tools used in this work can be found here:
 
 ## License
 Contents of this repository are restricted to only non-commercial research purposes under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/). Copyright of the dataset contents belongs to the original copyright holders.
+
+## Citation
+If you find this work useful for your research, please consider citing:
+```
+@inproceedings{shohan-etal-2024-xl,
+    title = "{XL}-{H}ead{T}ags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags",
+    author = "Shohan, Faisal  and
+      Nayeem, Mir Tafseer  and
+      Islam, Samsul  and
+      Akash, Abu Ubaida  and
+      Joty, Shafiq",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.771",
+    pages = "12991--13024"
+}
+
+```
 
 ## Contributors
 - Faisal Tareque Shohan (faisaltareque@hotmail.com)
