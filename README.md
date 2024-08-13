@@ -61,7 +61,6 @@ If you find this work useful for your research, please consider citing:
     url = "https://aclanthology.org/2024.findings-acl.771",
     pages = "12991--13024"
 }
-
 ```
 
 ## Contributors
