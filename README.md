@@ -4,7 +4,7 @@ This is the official repository contains the code, data, and models of the paper
 
 ## Table of Contents
 
-- [Shironaam](#shironaam)
+- [XL-HeadTags](#xl-headtags)
   - [Table of Contents](#table-of-contents)
   - [Abstract](#abstract)
   - [Dataset](#dataset)
@@ -23,7 +23,7 @@ This is the official repository contains the code, data, and models of the paper
 Dataset used in this work is available here: [XL-HeadTags](https://huggingface.co/datasets/faisaltareque/XL-HeadTags)
 
 ## Models
-Models with caption Retrieved K=5 (Top-K) can be found here:
+Models with Caption Retrieved K=5 (Top-K) can be found here:
 - [XL-HeadTags-mT5-c5](https://huggingface.co/faisaltareque/XL-HeadTags-mT5-c5)
 - [XL-HeadTags-mT0-c5](https://huggingface.co/faisaltareque/XL-HeadTags-mT0-c5)
 - [XL-HeadTags-FlanT5-c5](https://huggingface.co/faisaltareque/XL-HeadTags-FlanT5-c5)
